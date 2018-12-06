@@ -1,0 +1,6 @@
+[submodule "presentation-bases-css"]
+	path = presentation-bases-css
+	url = https://github.com/htmlcss-learning/presentation-bases-css.git
+[submodule "presentation-bases-html"]
+	path = presentation-bases-html
+	url = https://github.com/htmlcss-learning/presentation-bases-html.git
