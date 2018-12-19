@@ -4,3 +4,6 @@
 [submodule "presentation-bases-html"]
 	path = presentation-bases-html
 	url = https://github.com/htmlcss-learning/presentation-bases-html.git
+[submodule "symfony3-beginners"]
+	path = symfony3-beginners
+	url = https://github.com/php-learning/symfony3-beginners.git
